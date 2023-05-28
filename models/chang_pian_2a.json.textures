@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "blackstone_top",
+        "2": "jukebox_side",
+        "3": "bell_bottom",
+        "4": "iron_bars",
+        "5": "gold_block",
+        "6": "cd1",
+        "missing": "gold_block"
+      },
+      "name": "default"
+    }
+  }
+}

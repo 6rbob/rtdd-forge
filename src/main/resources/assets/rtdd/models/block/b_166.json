@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/yi_ju_",
+  "textures": {
+    "all": "rtdd:blocks/pasted3",
+    "particle": "rtdd:blocks/pasted3",
+    "1": "rtdd:blocks/pasted1",
+    "2": "rtdd:blocks/pasted2",
+    "3": "rtdd:blocks/pasted3",
+    "missing": "rtdd:blocks/"
+  }
+}

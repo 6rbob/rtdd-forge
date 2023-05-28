@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "deepslate_tiles",
+        "3": "glow_item_frame",
+        "4": "cracked_polished_blackstone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

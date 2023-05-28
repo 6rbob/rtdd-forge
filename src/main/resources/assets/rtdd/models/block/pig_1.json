@@ -1,0 +1,12 @@
+{
+  "parent": "rtdd:custom/hooked_pig1",
+  "textures": {
+    "all": "rtdd:blocks/dead_pig",
+    "particle": "rtdd:blocks/dead_pig",
+    "2": "rtdd:blocks/pig-d",
+    "3": "rtdd:blocks/stripped_spruce_log2",
+    "4": "rtdd:blocks/hacken",
+    "5": "rtdd:blocks/pig_d_d",
+    "missing": "rtdd:blocks/"
+  }
+}

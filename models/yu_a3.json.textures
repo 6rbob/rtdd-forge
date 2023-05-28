@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "",
+        "2": "",
+        "3": "",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

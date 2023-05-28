@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mossy_stone_bricks",
+        "2": "cracked_stone_bricks"
+      },
+      "name": "default"
+    }
+  }
+}

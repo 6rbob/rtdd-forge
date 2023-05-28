@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "rtdd:blocks/24fc2ea16e487b76b2c0d20547c816c",
+    "pane": "rtdd:blocks/24fc2ea16e487b76b2c0d20547c816c"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_ingot"
+  },
+  "addition": {
+    "item": "rtdd:b_140"
+  },
+  "result": {
+    "item": "rtdd:b_257"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cave_vines_plant",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

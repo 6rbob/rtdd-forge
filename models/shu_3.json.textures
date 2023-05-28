@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chiseled_bookshelf_empty",
+        "1": "chiseled_bookshelf_occupied",
+        "2": "chiseled_bookshelf_side",
+        "3": "chiseled_bookshelf_top"
+      },
+      "name": "default"
+    }
+  }
+}

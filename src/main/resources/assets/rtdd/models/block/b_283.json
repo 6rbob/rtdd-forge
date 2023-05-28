@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/tie_kuang_1",
+  "textures": {
+    "all": "rtdd:blocks/raw_iron",
+    "particle": "rtdd:blocks/raw_iron",
+    "1": "rtdd:blocks/raw_iron"
+  }
+}

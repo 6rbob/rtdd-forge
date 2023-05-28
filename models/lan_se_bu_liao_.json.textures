@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lan_se_"
+      },
+      "name": "default"
+    }
+  }
+}

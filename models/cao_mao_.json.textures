@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "hay_block_top"
+      },
+      "name": "default"
+    }
+  }
+}

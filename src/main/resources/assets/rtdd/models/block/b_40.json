@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/hu_luo_bu_dui_",
+  "textures": {
+    "all": "rtdd:blocks/luo_bu_dui_",
+    "particle": "rtdd:blocks/luo_bu_dui_",
+    "0": "rtdd:blocks/lobo"
+  }
+}

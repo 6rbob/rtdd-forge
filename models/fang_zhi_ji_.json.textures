@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "white_wool",
+        "1": "log_big_oak",
+        "2": "stripped_oak_dark",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

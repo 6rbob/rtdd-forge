@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "log_oak_top",
+        "3": "melon_side",
+        "4": "melon_top"
+      },
+      "name": "default"
+    }
+  }
+}

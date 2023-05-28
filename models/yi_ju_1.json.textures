@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "pasted1",
+        "2": "pasted2",
+        "3": "pasted3",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

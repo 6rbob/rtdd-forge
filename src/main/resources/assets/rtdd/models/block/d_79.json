@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/wu_ji_2",
+  "textures": {
+    "all": "rtdd:blocks/cracked_nether_bricks",
+    "particle": "rtdd:blocks/cracked_nether_bricks",
+    "0": "rtdd:blocks/brick",
+    "1": "rtdd:blocks/stripped_oak_dark"
+  }
+}

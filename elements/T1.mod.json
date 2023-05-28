@@ -1,0 +1,54 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.LEATHER_HELMET"
+      },
+      {
+        "value": "Items.CHAINMAIL_HELMET"
+      },
+      {
+        "value": "Items.TURTLE_HELMET"
+      },
+      {
+        "value": "Items.IRON_HELMET"
+      },
+      {
+        "value": "Items.GOLDEN_HELMET"
+      },
+      {
+        "value": "Items.DIAMOND_HELMET"
+      },
+      {
+        "value": "Items.NETHERITE_HELMET"
+      },
+      {
+        "value": "CUSTOM:Dd16.helmet"
+      },
+      {
+        "value": "CUSTOM:Dd14.helmet"
+      },
+      {
+        "value": "CUSTOM:Dd20.helmet"
+      },
+      {
+        "value": "CUSTOM:Dd18.helmet"
+      },
+      {
+        "value": "CUSTOM:Dd17.helmet"
+      },
+      {
+        "value": "CUSTOM:Dd21.helmet"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_1",
+    "namespace": "minecraft"
+  }
+}

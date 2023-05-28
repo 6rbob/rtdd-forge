@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/tong_bi_dui_",
+  "textures": {
+    "all": "rtdd:blocks/tong_bi_dui_",
+    "particle": "rtdd:blocks/tong_bi_dui_",
+    "0": "rtdd:blocks/tong_bi_",
+    "missing": "rtdd:blocks/"
+  }
+}

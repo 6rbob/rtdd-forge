@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "brick",
+        "2": "stripped_spruce_log2"
+      },
+      "name": "default"
+    }
+  }
+}

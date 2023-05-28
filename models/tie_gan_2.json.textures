@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spruce_planks",
+        "1": "tie_lian_"
+      },
+      "name": "default"
+    }
+  }
+}

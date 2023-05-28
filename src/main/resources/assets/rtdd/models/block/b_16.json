@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/tu_dou_he_",
+  "textures": {
+    "all": "rtdd:blocks/cai_zhi_-ma_ling_shu_dui_",
+    "particle": "rtdd:blocks/cai_zhi_-ma_ling_shu_dui_",
+    "0": "rtdd:blocks/potato",
+    "1": "rtdd:blocks/log_oak_top"
+  }
+}

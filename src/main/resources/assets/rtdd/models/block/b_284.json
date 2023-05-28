@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/tong_kuang_1",
+  "textures": {
+    "all": "rtdd:blocks/raw_copper",
+    "particle": "rtdd:blocks/raw_copper",
+    "1": "rtdd:blocks/raw_copper"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bamboo_planks",
+        "2": "acacia_log_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/ton",
+  "textures": {
+    "all": "rtdd:blocks/pin_cun_",
+    "particle": "rtdd:blocks/pin_cun_",
+    "0": "rtdd:blocks/barrel_side",
+    "1": "rtdd:blocks/barrel_bottom",
+    "2": "rtdd:blocks/barrel_top",
+    "missing": "rtdd:blocks/"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/zhu_lan_",
+  "textures": {
+    "all": "rtdd:blocks/bamboo_trapdoor",
+    "particle": "rtdd:blocks/bamboo_trapdoor",
+    "3": "rtdd:blocks/bamboo_trapdoor"
+  }
+}

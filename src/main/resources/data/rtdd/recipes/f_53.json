@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "2": {
+      "item": "minecraft:cobbled_deepslate"
+    },
+    "3": {
+      "item": "minecraft:brick"
+    },
+    "5": {
+      "item": "minecraft:brick"
+    },
+    "6": {
+      "item": "minecraft:brick"
+    },
+    "7": {
+      "item": "minecraft:brick"
+    },
+    "8": {
+      "item": "minecraft:brick"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_102",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "rtdd:custom/jiu_2",
+  "textures": {
+    "all": "rtdd:blocks/luo_lan_",
+    "particle": "rtdd:blocks/luo_lan_",
+    "0": "rtdd:blocks/barrel",
+    "1": "rtdd:blocks/barrel_top",
+    "2": "rtdd:blocks/barrel_side",
+    "3": "rtdd:blocks/barrel_bottom",
+    "missing": "rtdd:blocks/"
+  }
+}

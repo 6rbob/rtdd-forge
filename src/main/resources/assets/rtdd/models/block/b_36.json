@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/mu_dui_1",
+  "textures": {
+    "all": "rtdd:blocks/log_big_oak_top",
+    "particle": "rtdd:blocks/log_big_oak_top",
+    "2": "rtdd:blocks/log_big_oak",
+    "3": "rtdd:blocks/log_oak_top"
+  }
+}

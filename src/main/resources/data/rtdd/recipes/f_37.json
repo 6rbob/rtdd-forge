@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:salmon"
+    },
+    "1": {
+      "item": "minecraft:salmon"
+    },
+    "2": {
+      "item": "minecraft:salmon"
+    },
+    "3": {
+      "item": "minecraft:salmon"
+    },
+    "4": {
+      "item": "minecraft:salmon"
+    },
+    "5": {
+      "item": "minecraft:salmon"
+    },
+    "6": {
+      "item": "minecraft:salmon"
+    },
+    "7": {
+      "item": "minecraft:salmon"
+    },
+    "8": {
+      "item": "minecraft:salmon"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_27",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cauldron_inner",
+        "1": "cauldron_side",
+        "2": "cauldron_top",
+        "3": "brick",
+        "4": "tie_lian_",
+        "5": "log_big_oak",
+        "6": "rabbit_stew",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

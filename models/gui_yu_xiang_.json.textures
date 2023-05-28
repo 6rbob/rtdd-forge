@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "log_oak_top",
+        "4": "salmon"
+      },
+      "name": "default"
+    }
+  }
+}

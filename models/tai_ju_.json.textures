@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "composter_bottom",
+        "1": "jungle_trapdoor",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

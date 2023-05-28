@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/ba_tai_",
+  "textures": {
+    "all": "rtdd:blocks/composter_bottom",
+    "particle": "rtdd:blocks/composter_bottom",
+    "0": "rtdd:blocks/composter_bottom"
+  }
+}

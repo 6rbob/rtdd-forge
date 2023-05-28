@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blackstone"
+    },
+    "3": {
+      "item": "minecraft:blackstone"
+    },
+    "4": {
+      "tag": "minecraft:coals"
+    },
+    "5": {
+      "item": "minecraft:blackstone"
+    },
+    "7": {
+      "item": "minecraft:blackstone"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_145",
+    "count": 1
+  }
+}

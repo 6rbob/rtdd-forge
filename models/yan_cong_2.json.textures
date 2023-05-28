@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "brick",
+        "7": "blackstone_top",
+        "8": "blackstone_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/ba_",
+  "textures": {
+    "all": "rtdd:blocks/target_side",
+    "particle": "rtdd:blocks/target_side",
+    "0": "rtdd:blocks/target_side",
+    "1": "rtdd:blocks/target_top"
+  }
+}

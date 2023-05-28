@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/da_men_6",
+  "textures": {
+    "all": "rtdd:blocks/door_spruce_lower",
+    "particle": "rtdd:blocks/door_spruce_lower",
+    "1": "rtdd:blocks/men_1",
+    "2": "rtdd:blocks/men_2",
+    "missing": "rtdd:blocks/"
+  }
+}

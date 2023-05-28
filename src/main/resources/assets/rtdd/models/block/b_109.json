@@ -1,0 +1,14 @@
+{
+  "parent": "rtdd:custom/chang_pian_2a",
+  "textures": {
+    "all": "rtdd:blocks/jukebox_side",
+    "particle": "rtdd:blocks/jukebox_side",
+    "1": "rtdd:blocks/blackstone_top",
+    "2": "rtdd:blocks/jukebox_side",
+    "3": "rtdd:blocks/bell_bottom",
+    "4": "rtdd:blocks/iron_bars",
+    "5": "rtdd:blocks/gold_block",
+    "6": "rtdd:blocks/cd1",
+    "missing": "rtdd:blocks/gold_block"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "log_oak",
+        "1": "oak_planks"
+      },
+      "name": "default"
+    }
+  }
+}

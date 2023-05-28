@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/yong_quan_",
+  "textures": {
+    "all": "rtdd:blocks/shulker_top_white",
+    "particle": "rtdd:blocks/shulker_top_white",
+    "1": "rtdd:blocks/shulker_top_white",
+    "2": "rtdd:blocks/shulker_top_red"
+  }
+}

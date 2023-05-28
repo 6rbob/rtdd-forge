@@ -1,0 +1,20 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 500,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:W26"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:T12"
+    },
+    "name": "f_91",
+    "namespace": "mod"
+  }
+}

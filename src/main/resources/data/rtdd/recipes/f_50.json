@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "rtdd:b_79"
+    },
+    "1": {
+      "item": "rtdd:b_79"
+    },
+    "2": {
+      "item": "rtdd:b_79"
+    },
+    "3": {
+      "item": "rtdd:b_79"
+    },
+    "4": {
+      "item": "rtdd:b_79"
+    },
+    "5": {
+      "item": "rtdd:b_79"
+    },
+    "6": {
+      "item": "rtdd:b_79"
+    },
+    "7": {
+      "item": "rtdd:b_79"
+    },
+    "8": {
+      "item": "rtdd:b_79"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_87",
+    "count": 1
+  }
+}

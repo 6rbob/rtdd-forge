@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "log_oak_top",
+        "2": "log_big_oak",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

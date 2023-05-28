@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mossy_cobblestone",
+        "2": "bai_qiang_"
+      },
+      "name": "default"
+    }
+  }
+}

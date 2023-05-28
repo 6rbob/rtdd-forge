@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:white_terracotta"
+    },
+    "1": {
+      "item": "minecraft:moss_block"
+    },
+    "2": {
+      "item": "minecraft:white_terracotta"
+    },
+    "4": {
+      "item": "minecraft:white_terracotta"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_137",
+    "count": 1
+  }
+}

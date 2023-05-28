@@ -1,0 +1,72 @@
+{
+  "_fv": 39,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "kui_jia_shang_de_yan_zhao_",
+    "enableBody": true,
+    "textureBody": "gong_ju_shang_de_yi_fu_",
+    "enableLeggings": false,
+    "textureLeggings": "kui_jia_shang_de_yi_fu_",
+    "enableBoots": false,
+    "textureBoots": "",
+    "onHelmetTick": {
+      "name": "Liliang"
+    },
+    "onBodyTick": {
+      "name": "Jipo"
+    },
+    "creativeTab": {
+      "value": "CUSTOM:Rtdd"
+    },
+    "armorTextureFile": "armorer.",
+    "helmetName": "黑色眼罩",
+    "bodyName": "工装",
+    "leggingsName": "DD 6 护腿",
+    "bootsName": "DD 6 靴子",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Modelcustom_model",
+    "helmetModelPart": "Head",
+    "helmetModelTexture": "wuq.png",
+    "bodyModelName": "Model渔夫7",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "RightLeg",
+    "armsModelPartR": "RightLeg",
+    "bodyModelTexture": "toolsmith.png",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "a.layer_2.png",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 25,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

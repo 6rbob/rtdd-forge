@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "tao_zi_",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

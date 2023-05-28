@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "gan_cao_",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

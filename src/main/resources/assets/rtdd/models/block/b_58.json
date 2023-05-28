@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/tie_cha_zi_",
+  "textures": {
+    "all": "rtdd:blocks/cao_cha_",
+    "particle": "rtdd:blocks/cao_cha_",
+    "0": "rtdd:blocks/stripped_spruce_log2",
+    "1": "rtdd:blocks/iron_trapdoor",
+    "missing": "rtdd:blocks/"
+  }
+}

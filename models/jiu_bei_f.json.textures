@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "barrel_side",
+        "1": "luo_lan_",
+        "missing": "barrel_side"
+      },
+      "name": "default"
+    }
+  }
+}

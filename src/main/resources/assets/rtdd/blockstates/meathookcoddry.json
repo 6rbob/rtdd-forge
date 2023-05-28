@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rtdd:block/meathookcoddry"
+    },
+    "facing=east": {
+      "model": "rtdd:block/meathookcoddry",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rtdd:block/meathookcoddry",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rtdd:block/meathookcoddry",
+      "y": 270
+    }
+  }
+}

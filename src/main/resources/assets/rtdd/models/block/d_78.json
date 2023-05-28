@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/zhuan_wu_ding_1",
+  "textures": {
+    "all": "rtdd:blocks/brick",
+    "particle": "rtdd:blocks/brick",
+    "0": "rtdd:blocks/brick"
+  }
+}

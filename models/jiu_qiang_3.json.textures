@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bai_qiang_",
+        "1": "zuo_jiu_qiang_mian_"
+      },
+      "name": "default"
+    }
+  }
+}

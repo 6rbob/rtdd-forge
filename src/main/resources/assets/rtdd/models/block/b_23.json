@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/xue_yu_",
+  "textures": {
+    "all": "rtdd:blocks/xue_yu_dui_",
+    "particle": "rtdd:blocks/xue_yu_dui_",
+    "3": "rtdd:blocks/meat_hook_cod"
+  }
+}

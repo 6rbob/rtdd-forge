@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/qing_tai_jing_qiang_4",
+  "textures": {
+    "all": "rtdd:blocks/mossy_stone_bricks",
+    "particle": "rtdd:blocks/mossy_stone_bricks",
+    "1": "rtdd:blocks/mossy_stone_bricks",
+    "2": "rtdd:blocks/cracked_stone_bricks"
+  }
+}

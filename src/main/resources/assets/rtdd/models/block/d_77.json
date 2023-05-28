@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/xie_6",
+  "textures": {
+    "all": "rtdd:blocks/cave_vines",
+    "particle": "rtdd:blocks/cave_vines",
+    "1": "rtdd:blocks/cave_vines_plant",
+    "missing": "rtdd:blocks/"
+  }
+}

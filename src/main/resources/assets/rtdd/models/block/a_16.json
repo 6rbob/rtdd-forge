@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "rtdd:blocks/49108129f44fd4ff4bd79e02eb02407",
+    "particle": "rtdd:blocks/49108129f44fd4ff4bd79e02eb02407"
+  }
+}

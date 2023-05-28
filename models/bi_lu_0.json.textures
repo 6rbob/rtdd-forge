@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "weathered_copper",
+        "1": "brick",
+        "2": "iron_bars",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

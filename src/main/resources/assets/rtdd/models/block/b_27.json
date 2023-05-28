@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/gui_yu_dui_",
+  "textures": {
+    "all": "rtdd:blocks/gui_yu_dui_",
+    "particle": "rtdd:blocks/gui_yu_dui_",
+    "2": "rtdd:blocks/salmon"
+  }
+}

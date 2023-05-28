@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cartography_table_side1",
+        "1": "cartography_table_side3",
+        "2": "cartography_table_top",
+        "3": "cartography_table_side2",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

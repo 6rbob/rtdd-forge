@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/xuan_shang_zhi_2",
+  "textures": {
+    "all": "rtdd:blocks/book0",
+    "particle": "rtdd:blocks/book0",
+    "0": "rtdd:blocks/3a7925af367304ccf928d1d69f386a6",
+    "missing": "rtdd:blocks/"
+  }
+}

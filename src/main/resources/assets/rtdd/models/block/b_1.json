@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/apple_pile",
+  "textures": {
+    "all": "rtdd:blocks/e7dff000cc3f6b05e12acc35bdd75b2",
+    "particle": "rtdd:blocks/e7dff000cc3f6b05e12acc35bdd75b2",
+    "0": "rtdd:blocks/apple"
+  }
+}

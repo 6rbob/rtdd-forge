@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rtdd:porkrib"
+    },
+    {
+      "item": "rtdd:a_12"
+    },
+    {
+      "item": "rtdd:a_15"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "rtdd:a_11",
+    "count": 1
+  }
+}

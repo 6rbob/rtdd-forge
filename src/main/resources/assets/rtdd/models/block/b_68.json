@@ -1,0 +1,16 @@
+{
+  "parent": "rtdd:custom/tang_2",
+  "textures": {
+    "all": "rtdd:blocks/cauldron_top",
+    "particle": "rtdd:blocks/cauldron_top",
+    "0": "rtdd:blocks/cauldron_inner",
+    "1": "rtdd:blocks/cauldron_side",
+    "2": "rtdd:blocks/cauldron_top",
+    "3": "rtdd:blocks/brick",
+    "4": "rtdd:blocks/tie_lian_",
+    "5": "rtdd:blocks/log_big_oak",
+    "6": "rtdd:blocks/92017735a291f467473f64245d94c79",
+    "7": "rtdd:blocks/carrot",
+    "missing": "rtdd:blocks/"
+  }
+}

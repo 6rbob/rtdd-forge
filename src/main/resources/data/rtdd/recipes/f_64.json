@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:oak_sign"
+    },
+    {
+      "item": "minecraft:oak_sign"
+    }
+  ],
+  "result": {
+    "item": "rtdd:b_129",
+    "count": 1
+  }
+}

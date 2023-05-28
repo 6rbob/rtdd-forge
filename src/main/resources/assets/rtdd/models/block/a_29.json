@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/si_zhu_mo_xing_",
+  "textures": {
+    "all": "rtdd:blocks/pig_spawn_egg",
+    "particle": "rtdd:blocks/pig_spawn_egg",
+    "2": "rtdd:blocks/pig"
+  }
+}

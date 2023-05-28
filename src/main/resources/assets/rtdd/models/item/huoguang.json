@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "rtdd:items/wei_biao_ti_-2"
+  }
+}

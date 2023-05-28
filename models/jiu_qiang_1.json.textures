@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "bai_qiang_",
+        "3": "zuo_jiu_2",
+        "missing": "bai_qiang_"
+      },
+      "name": "default"
+    }
+  }
+}

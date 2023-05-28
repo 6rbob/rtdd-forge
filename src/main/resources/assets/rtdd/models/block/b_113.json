@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/jiu_bei_1",
+  "textures": {
+    "all": "rtdd:blocks/xin_jiu_0",
+    "particle": "rtdd:blocks/xin_jiu_0",
+    "0": "rtdd:blocks/barrel_side",
+    "missing": "rtdd:blocks/"
+  }
+}

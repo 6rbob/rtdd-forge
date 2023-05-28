@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rtdd:b_38"
+    }
+  ],
+  "result": {
+    "item": "minecraft:bread",
+    "count": 9
+  }
+}

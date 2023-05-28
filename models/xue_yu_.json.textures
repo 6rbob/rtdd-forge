@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "meat_hook_cod"
+      },
+      "name": "default"
+    }
+  }
+}

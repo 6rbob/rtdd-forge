@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "bamboo_large_leaves",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

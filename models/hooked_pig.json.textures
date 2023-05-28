@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "pig",
+        "4": "stripped_spruce_log2",
+        "5": "hacken",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

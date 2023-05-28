@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cart_3",
+        "1": "cart",
+        "2": "cart_2"
+      },
+      "name": "default"
+    }
+  }
+}

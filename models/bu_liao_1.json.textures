@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "lu_se_"
+      },
+      "name": "default"
+    }
+  }
+}

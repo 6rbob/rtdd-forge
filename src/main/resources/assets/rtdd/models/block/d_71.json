@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/wu_yan_b6",
+  "textures": {
+    "all": "rtdd:blocks/cobbled_deepslate",
+    "particle": "rtdd:blocks/cobbled_deepslate",
+    "0": "rtdd:blocks/mossy_cobblestone",
+    "2": "rtdd:blocks/stripped_oak_dark"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cheng_se_",
+        "1": "log_oak"
+      },
+      "name": "default"
+    }
+  }
+}

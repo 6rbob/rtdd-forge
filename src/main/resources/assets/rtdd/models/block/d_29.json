@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/ya_suo_yuan_shi_",
+  "textures": {
+    "all": "rtdd:blocks/cobblestone",
+    "particle": "rtdd:blocks/cobblestone",
+    "0": "rtdd:blocks/cobblestone",
+    "1": "rtdd:blocks/mossy_cobblestone"
+  }
+}

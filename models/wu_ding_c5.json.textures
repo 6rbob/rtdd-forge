@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "weathered_cut_copper",
+        "2": "bai_qiang_"
+      },
+      "name": "default"
+    }
+  }
+}

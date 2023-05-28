@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/mu_cha_1",
+  "textures": {
+    "all": "rtdd:blocks/oak_log",
+    "particle": "rtdd:blocks/oak_log",
+    "0": "rtdd:blocks/log_oak",
+    "1": "rtdd:blocks/log_oak_top"
+  }
+}

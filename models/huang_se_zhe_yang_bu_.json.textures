@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "shulker_top_white",
+        "1": "log_oak"
+      },
+      "name": "default"
+    }
+  }
+}

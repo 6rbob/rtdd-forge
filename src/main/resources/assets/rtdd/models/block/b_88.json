@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/lu_1",
+  "textures": {
+    "all": "rtdd:blocks/iron_bars",
+    "particle": "rtdd:blocks/iron_bars",
+    "0": "rtdd:blocks/weathered_copper",
+    "1": "rtdd:blocks/brick",
+    "6": "rtdd:blocks/acacia_trapdoor"
+  }
+}

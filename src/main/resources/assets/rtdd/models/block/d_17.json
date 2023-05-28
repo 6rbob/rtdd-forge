@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/ting_bu_5",
+  "textures": {
+    "all": "rtdd:blocks/smoker_bottom",
+    "particle": "rtdd:blocks/smoker_bottom",
+    "0": "rtdd:blocks/smoker_bottom",
+    "1": "rtdd:blocks/cobblestone"
+  }
+}

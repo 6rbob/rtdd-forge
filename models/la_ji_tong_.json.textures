@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "barrel_side",
+        "1": "barrel_bottom",
+        "2": "barrel_top",
+        "4": "composter_compost",
+        "5": "composter_ready",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

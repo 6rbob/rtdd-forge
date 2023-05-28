@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/jiu_bei_d",
+  "textures": {
+    "all": "rtdd:blocks/b03d0bbd35a4198e5ee2056add27325",
+    "particle": "rtdd:blocks/b03d0bbd35a4198e5ee2056add27325",
+    "0": "rtdd:blocks/barrel_side",
+    "1": "rtdd:blocks/b03d0bbd35a4198e5ee2056add27325",
+    "missing": "rtdd:blocks/"
+  }
+}

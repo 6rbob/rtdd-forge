@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/biao_",
+  "textures": {
+    "all": "rtdd:blocks/beehive_side",
+    "particle": "rtdd:blocks/beehive_side",
+    "0": "rtdd:blocks/beehive_side"
+  }
+}

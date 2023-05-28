@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/g5",
+  "textures": {
+    "all": "rtdd:blocks/log_big_oak",
+    "particle": "rtdd:blocks/log_big_oak",
+    "1": "rtdd:blocks/log_big_oak",
+    "2": "rtdd:blocks/smith",
+    "missing": "rtdd:blocks/"
+  }
+}

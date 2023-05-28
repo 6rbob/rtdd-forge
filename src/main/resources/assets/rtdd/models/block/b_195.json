@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/shu_ju_14",
+  "textures": {
+    "all": "rtdd:blocks/chiseled_bookshelf_occupied",
+    "particle": "rtdd:blocks/chiseled_bookshelf_occupied",
+    "0": "rtdd:blocks/chiseled_bookshelf_empty",
+    "2": "rtdd:blocks/chiseled_bookshelf_side",
+    "3": "rtdd:blocks/chiseled_bookshelf_top"
+  }
+}

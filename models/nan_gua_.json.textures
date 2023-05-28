@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "log_oak_top",
+        "3": "pumpkin_side",
+        "4": "pumpkin_top"
+      },
+      "name": "default"
+    }
+  }
+}

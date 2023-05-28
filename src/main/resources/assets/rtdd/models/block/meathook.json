@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/meat_hook",
+  "textures": {
+    "all": "rtdd:blocks/hacken",
+    "particle": "rtdd:blocks/hacken",
+    "1": "rtdd:blocks/meat_hook",
+    "2": "rtdd:blocks/hacken",
+    "missing": "rtdd:blocks/"
+  }
+}

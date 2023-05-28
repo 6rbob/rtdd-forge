@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/jin_bi_dui_",
+  "textures": {
+    "all": "rtdd:blocks/jin_bi_",
+    "particle": "rtdd:blocks/jin_bi_",
+    "0": "rtdd:blocks/jin_bi_",
+    "missing": "rtdd:blocks/"
+  }
+}

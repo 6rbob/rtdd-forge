@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/lan_zhe_yang_bu_",
+  "textures": {
+    "all": "rtdd:blocks/lan_",
+    "particle": "rtdd:blocks/lan_",
+    "0": "rtdd:blocks/lan_se_",
+    "1": "rtdd:blocks/log_big_oak"
+  }
+}

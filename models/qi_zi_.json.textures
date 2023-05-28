@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "shulker_top_yellow",
+        "1": "shulker_top_lime",
+        "2": "door_spruce_upper",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

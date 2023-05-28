@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rtdd:block/ludeng"
+    },
+    "facing=east": {
+      "model": "rtdd:block/ludeng",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rtdd:block/ludeng",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rtdd:block/ludeng",
+      "y": 270
+    }
+  }
+}

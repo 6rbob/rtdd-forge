@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/liang_",
+  "textures": {
+    "all": "rtdd:blocks/meat_hook",
+    "particle": "rtdd:blocks/meat_hook",
+    "1": "rtdd:blocks/cart"
+  }
+}

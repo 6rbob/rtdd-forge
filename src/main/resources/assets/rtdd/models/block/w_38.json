@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/wu_qi_jia_1",
+  "textures": {
+    "all": "rtdd:blocks/wu_qi_jia_",
+    "particle": "rtdd:blocks/wu_qi_jia_",
+    "0": "rtdd:blocks/log_big_oak",
+    "1": "rtdd:blocks/men_2",
+    "2": "rtdd:blocks/brick",
+    "missing": "rtdd:blocks/"
+  }
+}

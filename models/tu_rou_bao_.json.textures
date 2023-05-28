@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "wan",
+        "2": "mushroomstew",
+        "3": "rabbitstew"
+      },
+      "name": "default"
+    }
+  }
+}

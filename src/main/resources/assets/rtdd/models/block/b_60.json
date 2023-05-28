@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/dxie_qi_zi_",
+  "textures": {
+    "all": "rtdd:blocks/shulker_top_brown",
+    "particle": "rtdd:blocks/shulker_top_brown",
+    "0": "rtdd:blocks/shulker_top_red",
+    "1": "rtdd:blocks/shulker_top_orange",
+    "2": "rtdd:blocks/door_spruce_upper",
+    "missing": "rtdd:blocks/"
+  }
+}

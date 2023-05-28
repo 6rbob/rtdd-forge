@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pumpkin_face_off",
+        "1": "log_oak",
+        "2": "hay_block_side",
+        "3": "hay_block_top",
+        "5": "pumpkin_side",
+        "7": "butcher",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

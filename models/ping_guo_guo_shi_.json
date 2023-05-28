@@ -1,0 +1,91 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "rtdd:blocks/apple"
+	},
+	"elements": [
+		{
+			"from": [4, 14, 9.5],
+			"to": [5, 16, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 16]},
+			"faces": {
+				"north": {"uv": [8, 3, 9, 5], "texture": "#0"},
+				"south": {"uv": [8, 3, 9, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [10, 12, 5.5],
+			"to": [11, 16, 5.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 5, 16]},
+			"faces": {
+				"north": {"uv": [8, 3, 9, 5], "texture": "#0"},
+				"south": {"uv": [8, 3, 9, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 9, 7],
+			"to": [7, 14, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 8]},
+			"faces": {
+				"north": {"uv": [13, 10, 8, 15], "texture": "#0"},
+				"east": {"uv": [7, 8, 12, 13], "texture": "#0"},
+				"south": {"uv": [4, 10, 9, 15], "texture": "#0"},
+				"west": {"uv": [7, 6, 12, 11], "texture": "#0"},
+				"up": {"uv": [6, 2, 11, 7], "texture": "#0"},
+				"down": {"uv": [6, 2, 11, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.59728, 7, 2.71555],
+			"to": [12.59728, 12, 7.71555],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.59728, 5, 4.71555]},
+			"faces": {
+				"north": {"uv": [13, 10, 8, 15], "texture": "#0"},
+				"east": {"uv": [7, 8, 12, 13], "texture": "#0"},
+				"south": {"uv": [4, 10, 9, 15], "texture": "#0"},
+				"west": {"uv": [7, 6, 12, 11], "texture": "#0"},
+				"up": {"uv": [6, 2, 11, 7], "texture": "#0"},
+				"down": {"uv": [6, 2, 11, 7], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [-8, 0, 0],
+			"color": 0,
+			"children": [
+				0,
+				1,
+				2,
+				{
+					"name": "bone2",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"children": [
+						{
+							"name": "bone4",
+							"origin": [0, 0, -10],
+							"color": 0,
+							"children": [
+								{
+									"name": "bone5",
+									"origin": [0, 0, -10],
+									"color": 0,
+									"children": [3]
+								}
+							]
+						},
+						{
+							"name": "bone3",
+							"origin": [-6, 0, 1],
+							"rotation": [0, 17.5, 0],
+							"color": 0,
+							"children": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

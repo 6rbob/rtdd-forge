@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/mei_you_deng_",
+  "textures": {
+    "all": "rtdd:blocks/glow_item_frame",
+    "particle": "rtdd:blocks/glow_item_frame",
+    "2": "rtdd:blocks/deepslate_tiles",
+    "3": "rtdd:blocks/glow_item_frame",
+    "4": "rtdd:blocks/cracked_polished_blackstone_bricks"
+  }
+}

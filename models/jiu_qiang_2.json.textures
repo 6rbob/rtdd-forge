@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "bai_qiang_",
+        "2": "jiu_qiang_1"
+      },
+      "name": "default"
+    }
+  }
+}

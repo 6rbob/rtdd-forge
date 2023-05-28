@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/tu_rou_bao_",
+  "textures": {
+    "all": "rtdd:blocks/wan",
+    "particle": "rtdd:blocks/wan",
+    "1": "rtdd:blocks/wan",
+    "2": "rtdd:blocks/mushroomstew",
+    "3": "rtdd:blocks/rabbitstew"
+  }
+}

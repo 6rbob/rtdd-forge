@@ -1,0 +1,13 @@
+{
+  "parent": "rtdd:custom/zhu_zao_tai_7b",
+  "textures": {
+    "all": "rtdd:blocks/blast_furnace_front",
+    "particle": "rtdd:blocks/blast_furnace_front",
+    "0": "rtdd:blocks/tie_1",
+    "1": "rtdd:blocks/blast_furnace_side",
+    "2": "rtdd:blocks/blast_furnace_front",
+    "3": "rtdd:blocks/dropper_front_vertical",
+    "4": "rtdd:blocks/brick",
+    "missing": "rtdd:blocks/"
+  }
+}

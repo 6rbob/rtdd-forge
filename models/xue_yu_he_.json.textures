@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "log_oak_top",
+        "3": "meat_hook_cod"
+      },
+      "name": "default"
+    }
+  }
+}

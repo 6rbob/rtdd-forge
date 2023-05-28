@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/ping_guo_guo_shi_2",
+  "textures": {
+    "all": "rtdd:blocks/apple",
+    "particle": "rtdd:blocks/apple",
+    "0": "rtdd:blocks/apple"
+  }
+}

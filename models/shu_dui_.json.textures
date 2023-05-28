@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "shu_",
+        "2": "shulker_top_lime",
+        "3": "shulker_top_light_blue",
+        "4": "shulker_top_yellow"
+      },
+      "name": "default"
+    }
+  }
+}

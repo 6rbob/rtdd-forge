@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "log_big_oak"
+      },
+      "name": "default"
+    }
+  }
+}

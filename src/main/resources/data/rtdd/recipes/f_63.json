@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cartography_table"
+    },
+    "1": {
+      "item": "minecraft:cartography_table"
+    },
+    "2": {
+      "item": "minecraft:cartography_table"
+    },
+    "3": {
+      "item": "minecraft:cartography_table"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_127",
+    "count": 1
+  }
+}

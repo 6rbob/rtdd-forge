@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/mo_gu_bao_",
+  "textures": {
+    "all": "rtdd:blocks/wan",
+    "particle": "rtdd:blocks/wan",
+    "1": "rtdd:blocks/wan",
+    "2": "rtdd:blocks/mushroomstew"
+  }
+}

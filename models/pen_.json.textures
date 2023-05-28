@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "item_frame",
+        "1": "azalea_top"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/yu_2",
+  "textures": {
+    "all": "rtdd:blocks/gui_yu_dui_",
+    "particle": "rtdd:blocks/gui_yu_dui_",
+    "2": "rtdd:blocks/salmon",
+    "4": "rtdd:blocks/stripped_spruce_log2",
+    "5": "rtdd:blocks/hacken",
+    "missing": "rtdd:blocks/"
+  }
+}

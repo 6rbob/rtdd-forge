@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/yu_gang_b2",
+  "textures": {
+    "all": "rtdd:blocks/copper_block",
+    "particle": "rtdd:blocks/copper_block",
+    "1": "rtdd:blocks/tong_",
+    "2": "rtdd:blocks/shulker_top_red",
+    "3": "rtdd:blocks/copper_block"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/si_niu_mo_xing_",
+  "textures": {
+    "all": "rtdd:blocks/cow_spawn_egg",
+    "particle": "rtdd:blocks/cow_spawn_egg",
+    "1": "rtdd:blocks/cow0"
+  }
+}

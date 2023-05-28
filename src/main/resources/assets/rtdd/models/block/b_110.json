@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/fang_zhi_ji_",
+  "textures": {
+    "all": "rtdd:blocks/che_lun_",
+    "particle": "rtdd:blocks/che_lun_",
+    "0": "rtdd:blocks/white_wool",
+    "1": "rtdd:blocks/log_big_oak",
+    "2": "rtdd:blocks/stripped_oak_dark",
+    "missing": "rtdd:blocks/"
+  }
+}

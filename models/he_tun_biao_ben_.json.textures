@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "beehive_side",
+        "1": "pufferfish",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

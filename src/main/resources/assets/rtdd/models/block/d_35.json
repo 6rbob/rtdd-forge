@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/lian_1",
+  "textures": {
+    "all": "rtdd:blocks/white_glazed_terracotta",
+    "particle": "rtdd:blocks/white_glazed_terracotta",
+    "1": "rtdd:blocks/cauldron_inner",
+    "2": "rtdd:blocks/white_glazed_terracotta"
+  }
+}

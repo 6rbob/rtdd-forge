@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/shuang",
+  "textures": {
+    "all": "rtdd:blocks/black",
+    "particle": "rtdd:blocks/black",
+    "1": "rtdd:blocks/black",
+    "2": "rtdd:blocks/log_oak_top"
+  }
+}

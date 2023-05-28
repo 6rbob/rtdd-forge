@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_dark",
+        "1": "",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

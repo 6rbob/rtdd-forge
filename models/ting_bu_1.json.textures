@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "smoker_bottom",
+        "1": "cobblestone"
+      },
+      "name": "default"
+    }
+  }
+}

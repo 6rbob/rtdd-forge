@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "1": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "2": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "3": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "4": {
+      "item": "minecraft:spruce_trapdoor"
+    },
+    "5": {
+      "item": "minecraft:spruce_trapdoor"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_141",
+    "count": 1
+  }
+}

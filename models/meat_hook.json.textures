@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "meat_hook",
+        "2": "hacken",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

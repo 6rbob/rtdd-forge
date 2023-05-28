@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rtdd:b_27"
+    }
+  ],
+  "result": {
+    "item": "minecraft:salmon",
+    "count": 9
+  }
+}

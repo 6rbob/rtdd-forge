@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/hong_se_bu_liao_",
+  "textures": {
+    "all": "rtdd:blocks/hong_se_zhe_yang_bu_",
+    "particle": "rtdd:blocks/hong_se_zhe_yang_bu_",
+    "0": "rtdd:blocks/hong_se_zhe_yang_bu_"
+  }
+}

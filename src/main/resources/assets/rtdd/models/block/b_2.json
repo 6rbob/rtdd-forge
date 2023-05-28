@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/potato_pile",
+  "textures": {
+    "all": "rtdd:blocks/0424bc190f607c1ca07c230266836e1",
+    "particle": "rtdd:blocks/0424bc190f607c1ca07c230266836e1",
+    "0": "rtdd:blocks/potato"
+  }
+}

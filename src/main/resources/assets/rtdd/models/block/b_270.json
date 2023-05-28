@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "up": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "north": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "east": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "south": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "west": "rtdd:blocks/add101569f56254779842c6697c1cc4",
+    "particle": "rtdd:blocks/add101569f56254779842c6697c1cc4"
+  }
+}

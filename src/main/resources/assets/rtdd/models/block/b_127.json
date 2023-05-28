@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/zhi_tu_tai_2",
+  "textures": {
+    "all": "rtdd:blocks/cartography_table_top",
+    "particle": "rtdd:blocks/cartography_table_top",
+    "0": "rtdd:blocks/cartography_table_side1",
+    "1": "rtdd:blocks/cartography_table_side3",
+    "2": "rtdd:blocks/cartography_table_top",
+    "3": "rtdd:blocks/cartography_table_side2"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/si_yang_mo_xing_",
+  "textures": {
+    "all": "rtdd:blocks/sheep_spawn_egg",
+    "particle": "rtdd:blocks/sheep_spawn_egg",
+    "6": "rtdd:blocks/sheep"
+  }
+}

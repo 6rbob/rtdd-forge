@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "log_big_oak",
+		"2": "晾衣服PNG/smith",
+		"particle": "晾衣服PNG/smith"
+	},
+	"elements": [
+		{
+			"from": [-2, 3, 7.5],
+			"to": [18, 5, 9.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 1]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 2], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, -15, 9],
+			"to": [16, 6, 9],
+			"faces": {
+				"north": {"uv": [0, 9.5, 4.75, 15], "texture": "#2"},
+				"east": {"uv": [0, 38, 20, 59], "texture": "#missing"},
+				"south": {"uv": [0, 9.5, 4.75, 15], "texture": "#2"},
+				"west": {"uv": [0, 38, 20, 59], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "rotation": 270, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "rotation": 90, "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [
+				{
+					"name": "bone2",
+					"origin": [0, 0, 1],
+					"color": 0,
+					"children": [0]
+				},
+				1
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/tao_zi_4",
+  "textures": {
+    "all": "rtdd:blocks/tao_zi_",
+    "particle": "rtdd:blocks/tao_zi_",
+    "0": "rtdd:blocks/tao_zi_",
+    "missing": "rtdd:blocks/"
+  }
+}

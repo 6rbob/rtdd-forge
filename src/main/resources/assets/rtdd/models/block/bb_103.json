@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/yan_cong_1",
+  "textures": {
+    "all": "rtdd:blocks/brick",
+    "particle": "rtdd:blocks/brick",
+    "1": "rtdd:blocks/brick"
+  }
+}

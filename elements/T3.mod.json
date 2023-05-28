@@ -1,0 +1,54 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.LEATHER_CHESTPLATE"
+      },
+      {
+        "value": "Items.CHAINMAIL_CHESTPLATE"
+      },
+      {
+        "value": "Items.IRON_CHESTPLATE"
+      },
+      {
+        "value": "Items.GOLDEN_CHESTPLATE"
+      },
+      {
+        "value": "Items.DIAMOND_CHESTPLATE"
+      },
+      {
+        "value": "Items.NETHERITE_CHESTPLATE"
+      },
+      {
+        "value": "CUSTOM:Dd17.body"
+      },
+      {
+        "value": "CUSTOM:Dd14.body"
+      },
+      {
+        "value": "CUSTOM:Dd15.body"
+      },
+      {
+        "value": "CUSTOM:Dd18.body"
+      },
+      {
+        "value": "CUSTOM:Dd19.body"
+      },
+      {
+        "value": "CUSTOM:Dd20.body"
+      },
+      {
+        "value": "CUSTOM:Dd21.body"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_3",
+    "namespace": "minecraft"
+  }
+}

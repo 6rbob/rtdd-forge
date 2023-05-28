@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/nan_gua_",
+  "textures": {
+    "all": "rtdd:blocks/pumpkin_face_off",
+    "particle": "rtdd:blocks/pumpkin_face_off",
+    "1": "rtdd:blocks/log_oak_top",
+    "3": "rtdd:blocks/pumpkin_side",
+    "4": "rtdd:blocks/pumpkin_top"
+  }
+}

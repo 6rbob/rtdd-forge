@@ -1,0 +1,190 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 160,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "jiu_bei_gui.png",
+          "use1Xscale": false,
+          "x": 0,
+          "y": 0
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 153,
+          "y": 71
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 174,
+          "y": 79
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "n0.png",
+          "use1Xscale": false,
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "jian_tou_.png",
+          "use1Xscale": false,
+          "x": 238,
+          "y": 75
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 214,
+          "y": 79
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 194,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nian1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "N0"
+          },
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nian2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "N2"
+          },
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nian3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "N3"
+          },
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nian4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "N4"
+          },
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "nian5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "N5"
+          },
+          "x": 267,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "jiu_de_gui4.png",
+          "use1Xscale": false,
+          "x": 1,
+          "y": 40
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

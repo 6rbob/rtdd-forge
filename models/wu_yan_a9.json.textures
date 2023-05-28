@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "polished_diorite",
+        "2": "stripped_oak_dark"
+      },
+      "name": "default"
+    }
+  }
+}

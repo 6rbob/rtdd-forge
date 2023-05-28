@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      },
+      {
+        "value": "Items.BRICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BRICK"
+      },
+      {
+        "value": "Items.BRICK"
+      },
+      {
+        "value": "Items.BRICK"
+      },
+      {
+        "value": "Items.BRICK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:B102"
+    },
+    "name": "f_53",
+    "namespace": "mod"
+  }
+}

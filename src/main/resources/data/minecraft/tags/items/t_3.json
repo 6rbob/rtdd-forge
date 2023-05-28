@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "rtdd:dd_19_chestplate",
+    "rtdd:dd_18_chestplate",
+    "minecraft:netherite_chestplate",
+    "rtdd:dd_15_chestplate",
+    "rtdd:dd_20_chestplate",
+    "rtdd:dd_14_chestplate",
+    "rtdd:dd_17_chestplate",
+    "rtdd:dd_21_chestplate",
+    "minecraft:golden_chestplate",
+    "minecraft:iron_chestplate",
+    "minecraft:chainmail_chestplate",
+    "minecraft:diamond_chestplate",
+    "minecraft:leather_chestplate"
+  ]
+}

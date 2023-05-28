@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stripped_oak_dark",
+        "2": "hacken",
+        "3": "salmon",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

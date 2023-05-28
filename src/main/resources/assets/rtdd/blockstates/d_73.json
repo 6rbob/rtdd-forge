@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "rtdd:block/d_73"
+    },
+    "facing=east": {
+      "model": "rtdd:block/d_73",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "rtdd:block/d_73",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "rtdd:block/d_73",
+      "y": 270
+    }
+  }
+}

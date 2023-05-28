@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cracked_nether_bricks",
+        "2": "stripped_oak_dark"
+      },
+      "name": "default"
+    }
+  }
+}

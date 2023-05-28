@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cart",
+        "3": "log_big_oak"
+      },
+      "name": "default"
+    }
+  }
+}

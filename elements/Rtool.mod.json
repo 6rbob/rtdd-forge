@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "工具",
+    "icon": {
+      "value": "CUSTOM:T10"
+    },
+    "showSearch": false
+  }
+}

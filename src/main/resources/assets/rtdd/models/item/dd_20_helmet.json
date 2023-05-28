@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rtdd:items/kui_jia_shang_hu_mu_jing_"
+  }
+}

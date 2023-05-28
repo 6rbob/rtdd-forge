@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/shi_mian_3",
+  "textures": {
+    "all": "rtdd:blocks/stone_bricks",
+    "particle": "rtdd:blocks/stone_bricks",
+    "0": "rtdd:blocks/stone_bricks"
+  }
+}

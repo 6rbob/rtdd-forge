@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"3": "hay_block_top",
+		"particle": "hay_block_top"
+	},
+	"elements": [
+		{
+			"from": [0, 20, 0],
+			"to": [16, 20, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"east": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"south": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"west": {"uv": [0, 0, 16, 0], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3, 20, 3],
+			"to": [14, 23, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 0, 11, 3], "texture": "#3"},
+				"east": {"uv": [0, 0, 10, 3], "texture": "#3"},
+				"south": {"uv": [0, 0, 11, 3], "texture": "#3"},
+				"west": {"uv": [0, 0, 13, 3], "texture": "#3"},
+				"up": {"uv": [0, 0, 11, 10], "texture": "#3"},
+				"down": {"uv": [0, 0, 11, 10], "texture": "#3"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 2],
+			"rotation": [0, -92.5, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

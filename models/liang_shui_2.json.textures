@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cauldron_inner",
+        "2": "cauldron_side",
+        "3": "water_overlay"
+      },
+      "name": "default"
+    }
+  }
+}

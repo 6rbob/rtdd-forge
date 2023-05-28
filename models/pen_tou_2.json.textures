@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "pasted",
+        "1": "rain",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

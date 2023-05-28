@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rtdd:items/cai_zhi_-xiao_tui_che_"
+  }
+}

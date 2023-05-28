@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/xuan_shang_zhi_4",
+  "textures": {
+    "all": "rtdd:blocks/xuan_shang_",
+    "particle": "rtdd:blocks/xuan_shang_",
+    "0": "rtdd:blocks/799ded041e760a94d7a8ea55a53de1c",
+    "missing": "rtdd:blocks/"
+  }
+}

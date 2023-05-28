@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "cauldron_inner",
+        "2": "white_glazed_terracotta"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/gui_yu_gou_4",
+  "textures": {
+    "all": "rtdd:blocks/dried_fish",
+    "particle": "rtdd:blocks/dried_fish",
+    "1": "rtdd:blocks/stripped_oak_dark",
+    "2": "rtdd:blocks/hacken",
+    "3": "rtdd:blocks/gui_yu_gan_",
+    "missing": "rtdd:blocks/"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_oak_dark",
+        "2": "cart_2",
+        "3": "log_big_oak",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "cao_cha_",
+    "customModelName": "Normal",
+    "name": "铁叉",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Rtool"
+    },
+    "toolType": "Special",
+    "harvestLevel": 5,
+    "efficiency": 20.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 2,
+    "damageVsEntity": 5.5,
+    "usageCount": 100,
+    "blocksAffected": [
+      {
+        "value": "Blocks.HAY_BLOCK"
+      },
+      {
+        "value": "Blocks.PUMPKIN"
+      },
+      {
+        "value": "Blocks.MELON_BLOCK"
+      },
+      {
+        "value": "Blocks.CARVED_PUMPKIN"
+      },
+      {
+        "value": "Blocks.LIT_PUMPKIN"
+      }
+    ],
+    "hasGlow": false,
+    "repairItems": [],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onRightClickedOnBlock": {
+      "name": "Touch"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "rtdd:custom/dun_1",
+  "textures": {
+    "5": "rtdd:blocks/5th",
+    "particle": "rtdd:items/5th"
+  }
+}

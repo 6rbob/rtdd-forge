@@ -1,0 +1,20 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STONEBRICK#1"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:D26"
+    },
+    "name": "f_100",
+    "namespace": "mod"
+  }
+}

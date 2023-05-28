@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mian_bao_",
+        "2": "log_oak_top"
+      },
+      "name": "default"
+    }
+  }
+}

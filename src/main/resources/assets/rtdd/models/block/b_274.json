@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/ju_zi_guo_shi_3",
+  "textures": {
+    "all": "rtdd:blocks/ju1",
+    "particle": "rtdd:blocks/ju1",
+    "1": "rtdd:blocks/ju1",
+    "missing": "rtdd:blocks/"
+  }
+}

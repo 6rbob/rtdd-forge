@@ -1,0 +1,14 @@
+{
+  "parent": "rtdd:custom/dao_cao_",
+  "textures": {
+    "all": "rtdd:blocks/hay_block_side",
+    "particle": "rtdd:blocks/hay_block_side",
+    "0": "rtdd:blocks/pumpkin_face_off",
+    "1": "rtdd:blocks/log_oak",
+    "2": "rtdd:blocks/hay_block_side",
+    "3": "rtdd:blocks/hay_block_top",
+    "5": "rtdd:blocks/pumpkin_side",
+    "7": "rtdd:blocks/butcher",
+    "missing": "rtdd:blocks/"
+  }
+}

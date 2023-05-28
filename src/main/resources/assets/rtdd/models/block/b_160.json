@@ -1,0 +1,13 @@
+{
+  "parent": "rtdd:custom/la_ji_tong_3",
+  "textures": {
+    "all": "rtdd:blocks/pin_cun_",
+    "particle": "rtdd:blocks/pin_cun_",
+    "0": "rtdd:blocks/barrel_side",
+    "1": "rtdd:blocks/barrel_bottom",
+    "2": "rtdd:blocks/barrel_top",
+    "3": "rtdd:blocks/composter_compost",
+    "4": "rtdd:blocks/composter_ready",
+    "missing": "rtdd:blocks/"
+  }
+}

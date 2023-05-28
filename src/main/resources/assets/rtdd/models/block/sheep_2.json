@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/hooke_sheep2",
+  "textures": {
+    "all": "rtdd:blocks/dead_sheep",
+    "particle": "rtdd:blocks/dead_sheep",
+    "4": "rtdd:blocks/meat_hook",
+    "5": "rtdd:blocks/hacken",
+    "7": "rtdd:blocks/sheep_d",
+    "missing": "rtdd:blocks/"
+  }
+}

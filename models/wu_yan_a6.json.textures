@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cobblestone",
+        "2": "stripped_oak_dark"
+      },
+      "name": "default"
+    }
+  }
+}

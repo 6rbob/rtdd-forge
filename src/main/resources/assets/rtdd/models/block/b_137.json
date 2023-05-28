@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/pen_",
+  "textures": {
+    "all": "rtdd:blocks/item_frame",
+    "particle": "rtdd:blocks/item_frame",
+    "0": "rtdd:blocks/item_frame",
+    "1": "rtdd:blocks/azalea_top"
+  }
+}

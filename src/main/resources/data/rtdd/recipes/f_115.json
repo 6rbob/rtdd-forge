@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:raw_gold"
+  },
+  "addition": {
+    "item": "rtdd:b_140"
+  },
+  "result": {
+    "item": "rtdd:b_251"
+  }
+}

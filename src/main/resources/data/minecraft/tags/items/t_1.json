@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:golden_helmet",
+    "rtdd:dd_20_helmet",
+    "minecraft:leather_helmet",
+    "rtdd:dd_21_helmet",
+    "minecraft:netherite_helmet",
+    "minecraft:turtle_helmet",
+    "minecraft:diamond_helmet",
+    "rtdd:dd_18_helmet",
+    "minecraft:iron_helmet",
+    "rtdd:dd_16_helmet",
+    "rtdd:dd_17_helmet",
+    "rtdd:dd_14_helmet",
+    "minecraft:chainmail_helmet"
+  ]
+}

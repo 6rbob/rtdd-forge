@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_sword"
+  },
+  "addition": {
+    "item": "rtdd:w_13"
+  },
+  "result": {
+    "item": "rtdd:w_11"
+  }
+}

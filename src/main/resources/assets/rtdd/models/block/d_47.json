@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/bai_qiang_2",
+  "textures": {
+    "all": "rtdd:blocks/zuo_jiu_2",
+    "particle": "rtdd:blocks/zuo_jiu_2",
+    "0": "rtdd:blocks/brick",
+    "1": "rtdd:blocks/bai_qiang_"
+  }
+}

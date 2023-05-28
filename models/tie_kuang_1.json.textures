@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "raw_iron"
+      },
+      "name": "default"
+    }
+  }
+}

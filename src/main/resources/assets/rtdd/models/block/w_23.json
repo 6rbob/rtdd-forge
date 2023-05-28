@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rtdd:blocks/hong_shi_",
+    "up": "rtdd:blocks/hong_shi_",
+    "north": "rtdd:blocks/hong_shi_",
+    "east": "rtdd:blocks/hong_shi_",
+    "south": "rtdd:blocks/hong_shi_",
+    "west": "rtdd:blocks/hong_shi_",
+    "particle": "rtdd:blocks/hong_shi_"
+  }
+}

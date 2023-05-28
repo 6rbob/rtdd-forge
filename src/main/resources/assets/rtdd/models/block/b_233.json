@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/tan_zi_5",
+  "textures": {
+    "all": "rtdd:blocks/tan_wei_tai_",
+    "particle": "rtdd:blocks/tan_wei_tai_",
+    "2": "rtdd:blocks/birch_log",
+    "3": "rtdd:blocks/birch_planks",
+    "5": "rtdd:blocks/birch_door_bottom"
+  }
+}

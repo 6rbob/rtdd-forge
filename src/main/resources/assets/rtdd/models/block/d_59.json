@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/wu_yan_a3",
+  "textures": {
+    "all": "rtdd:blocks/cracked_polished_blackstone_bricks",
+    "particle": "rtdd:blocks/cracked_polished_blackstone_bricks",
+    "0": "rtdd:blocks/brick",
+    "2": "rtdd:blocks/stripped_oak_dark"
+  }
+}

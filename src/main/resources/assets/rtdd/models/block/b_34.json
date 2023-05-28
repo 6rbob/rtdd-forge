@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/zhi_gan_",
+  "textures": {
+    "all": "rtdd:blocks/mu_bang_",
+    "particle": "rtdd:blocks/mu_bang_",
+    "missing": "rtdd:blocks/log_big_oak"
+  }
+}

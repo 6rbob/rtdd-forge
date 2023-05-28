@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "stone_slab_side"
+      },
+      "name": "default"
+    }
+  }
+}

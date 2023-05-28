@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "shulker_top_white",
+        "2": "shulker_top_red"
+      },
+      "name": "default"
+    }
+  }
+}

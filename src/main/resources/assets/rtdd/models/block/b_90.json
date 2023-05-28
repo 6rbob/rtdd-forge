@@ -1,0 +1,13 @@
+{
+  "parent": "rtdd:custom/lu_3",
+  "textures": {
+    "all": "rtdd:blocks/iron_bars",
+    "particle": "rtdd:blocks/iron_bars",
+    "0": "rtdd:blocks/weathered_copper",
+    "1": "rtdd:blocks/brick",
+    "3": "rtdd:blocks/log_big_oak",
+    "4": "rtdd:blocks/huo",
+    "5": "rtdd:blocks/soul_sand",
+    "6": "rtdd:blocks/acacia_trapdoor"
+  }
+}

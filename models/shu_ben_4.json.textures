@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "chiseled_bookshelf_occupied",
+        "2": "5e63a1c6f8b1010b208eccb25be0c56"
+      },
+      "name": "default"
+    }
+  }
+}

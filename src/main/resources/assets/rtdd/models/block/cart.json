@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/che",
+  "textures": {
+    "all": "rtdd:blocks/cai_zhi_-xiao_tui_che_",
+    "particle": "rtdd:blocks/cai_zhi_-xiao_tui_che_",
+    "0": "rtdd:blocks/stripped_oak_dark",
+    "2": "rtdd:blocks/cart_2",
+    "3": "rtdd:blocks/log_big_oak",
+    "missing": "rtdd:blocks/"
+  }
+}

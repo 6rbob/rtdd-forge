@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:black_bed"
+    },
+    "1": {
+      "item": "minecraft:black_bed"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_35",
+    "count": 1
+  }
+}

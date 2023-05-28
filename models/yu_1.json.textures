@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "tong_",
+        "2": "shulker_top_red",
+        "3": "copper_block"
+      },
+      "name": "default"
+    }
+  }
+}

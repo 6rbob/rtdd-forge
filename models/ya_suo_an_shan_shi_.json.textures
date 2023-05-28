@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "andesite",
+        "1": "cart_2"
+      },
+      "name": "default"
+    }
+  }
+}

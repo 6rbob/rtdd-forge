@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "stripped_spruce_log2",
+        "1": "iron_trapdoor",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

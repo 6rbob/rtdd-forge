@@ -1,0 +1,11 @@
+{
+  "parent": "rtdd:custom/qi_zi_",
+  "textures": {
+    "all": "rtdd:blocks/qi_zi_1",
+    "particle": "rtdd:blocks/qi_zi_1",
+    "0": "rtdd:blocks/shulker_top_yellow",
+    "1": "rtdd:blocks/shulker_top_lime",
+    "2": "rtdd:blocks/door_spruce_upper",
+    "missing": "rtdd:blocks/"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "rtdd:blocks/ju",
+    "up": "rtdd:blocks/ju",
+    "north": "rtdd:blocks/log_big_oak",
+    "east": "rtdd:blocks/log_big_oak",
+    "south": "rtdd:blocks/log_big_oak",
+    "west": "rtdd:blocks/log_big_oak",
+    "particle": "rtdd:blocks/ju"
+  }
+}

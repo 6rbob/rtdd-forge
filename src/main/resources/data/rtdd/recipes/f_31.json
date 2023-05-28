@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "rtdd:b_28"
+    }
+  },
+  "result": {
+    "item": "rtdd:b_29",
+    "count": 1
+  }
+}

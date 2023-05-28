@@ -1,0 +1,13 @@
+{
+  "parent": "rtdd:custom/shu_ben_",
+  "textures": {
+    "all": "rtdd:blocks/book",
+    "particle": "rtdd:blocks/book",
+    "0": "rtdd:blocks/book",
+    "1": "rtdd:blocks/book0",
+    "2": "rtdd:blocks/book1",
+    "3": "rtdd:blocks/book2",
+    "4": "rtdd:blocks/book3",
+    "missing": "rtdd:blocks/"
+  }
+}

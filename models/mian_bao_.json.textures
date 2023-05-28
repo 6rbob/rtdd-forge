@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mian_bao_"
+      },
+      "name": "default"
+    }
+  }
+}

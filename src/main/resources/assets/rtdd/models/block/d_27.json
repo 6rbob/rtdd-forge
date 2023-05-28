@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/ya_suo_an_shan_shi_",
+  "textures": {
+    "all": "rtdd:blocks/andesite",
+    "particle": "rtdd:blocks/andesite",
+    "0": "rtdd:blocks/andesite",
+    "1": "rtdd:blocks/cart_2"
+  }
+}

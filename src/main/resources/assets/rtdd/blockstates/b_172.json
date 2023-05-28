@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "rtdd:block/b_172",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "rtdd:block/b_172"
+    },
+    "axis=z": {
+      "model": "rtdd:block/b_172",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "glass",
+        "1": "moss_block"
+      },
+      "name": "default"
+    }
+  }
+}

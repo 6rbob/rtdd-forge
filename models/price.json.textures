@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "mushroom_block_inside",
+        "4": "stone_slab_side",
+        "missing": "i_cleaver"
+      },
+      "name": "default"
+    }
+  }
+}

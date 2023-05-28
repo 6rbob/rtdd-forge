@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "copper_block",
+        "1": "blast_furnace_side",
+        "2": "blast_furnace_front",
+        "3": "dropper_front_vertical",
+        "4": "brick",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/pei_yu_xiang_2",
+  "textures": {
+    "all": "rtdd:blocks/copper_block",
+    "particle": "rtdd:blocks/copper_block",
+    "0": "rtdd:blocks/copper_block",
+    "2": "rtdd:blocks/composter_compost"
+  }
+}

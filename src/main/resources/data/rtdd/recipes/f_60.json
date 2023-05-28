@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:target"
+    }
+  ],
+  "result": {
+    "item": "rtdd:b_121",
+    "count": 4
+  }
+}

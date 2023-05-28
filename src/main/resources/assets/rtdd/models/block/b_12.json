@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/xi_gua_he_",
+  "textures": {
+    "all": "rtdd:blocks/melon_top",
+    "particle": "rtdd:blocks/melon_top",
+    "1": "rtdd:blocks/log_oak_top",
+    "3": "rtdd:blocks/melon_side",
+    "4": "rtdd:blocks/melon_top"
+  }
+}

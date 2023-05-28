@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/bu_liao_",
+  "textures": {
+    "all": "rtdd:blocks/shulker_top_white",
+    "particle": "rtdd:blocks/shulker_top_white",
+    "0": "rtdd:blocks/shulker_top_white"
+  }
+}

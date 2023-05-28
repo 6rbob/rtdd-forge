@@ -1,0 +1,6 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "rtdd:blocks/24fc2ea16e487b76b2c0d20547c816c"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/wu_ding_c7",
+  "textures": {
+    "all": "rtdd:blocks/brick",
+    "particle": "rtdd:blocks/brick",
+    "0": "rtdd:blocks/mossy_cobblestone",
+    "2": "rtdd:blocks/bai_qiang_"
+  }
+}

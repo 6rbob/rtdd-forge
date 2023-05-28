@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "rtdd:a_18"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "rtdd:a_18"
+    }
+  },
+  "result": {
+    "item": "rtdd:meathook",
+    "count": 1
+  }
+}

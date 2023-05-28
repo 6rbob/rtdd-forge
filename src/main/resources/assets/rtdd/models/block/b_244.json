@@ -1,0 +1,10 @@
+{
+  "parent": "rtdd:custom/liang_shui_2",
+  "textures": {
+    "all": "rtdd:blocks/cauldron_top",
+    "particle": "rtdd:blocks/cauldron_top",
+    "1": "rtdd:blocks/cauldron_inner",
+    "2": "rtdd:blocks/cauldron_side",
+    "3": "rtdd:blocks/water_overlay"
+  }
+}

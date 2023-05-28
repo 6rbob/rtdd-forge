@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "weathered_copper",
+        "1": "brick",
+        "2": "iron_bars",
+        "3": "log_big_oak",
+        "4": "campfire_fire",
+        "5": "soul_sand",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

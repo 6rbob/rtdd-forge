@@ -1,0 +1,8 @@
+{
+  "parent": "rtdd:custom/lan_se_bu_liao_",
+  "textures": {
+    "all": "rtdd:blocks/lan_se_",
+    "particle": "rtdd:blocks/lan_se_",
+    "0": "rtdd:blocks/lan_se_"
+  }
+}

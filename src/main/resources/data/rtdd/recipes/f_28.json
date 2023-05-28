@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "rtdd:b_15"
+    },
+    "3": {
+      "item": "rtdd:b_15"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "rtdd:b_15"
+    },
+    "7": {
+      "item": "rtdd:b_15"
+    }
+  },
+  "result": {
+    "item": "rtdd:d_12",
+    "count": 1
+  }
+}

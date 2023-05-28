@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "rtdd:blocks/df75fa93aff82da0689b0eb9f3909c5"
+  }
+}

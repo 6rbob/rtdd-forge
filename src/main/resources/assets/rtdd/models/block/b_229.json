@@ -1,0 +1,9 @@
+{
+  "parent": "rtdd:custom/xi_yi_ban_",
+  "textures": {
+    "all": "rtdd:blocks/bamboo_planks",
+    "particle": "rtdd:blocks/bamboo_planks",
+    "0": "rtdd:blocks/bamboo_planks",
+    "2": "rtdd:blocks/acacia_log_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "log_big_oak",
+        "2": "villager",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}
